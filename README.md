@@ -20,6 +20,6 @@ bundle install
 
 ## Test school base url:
 
-takehome.zeachable.com
+*[takehome.zeachable.com](takehome.zeachable.com)
 
 Feel free to reach out if you have any questions!
