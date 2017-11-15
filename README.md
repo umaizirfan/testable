@@ -5,11 +5,11 @@
 We created a test school with a course that contains 4 lecture.
 Your task is to write tests where you enroll in a course and complete it.
 We've setup Rspec and Cucumber in this repo.
-Feel free to choose one that fits you the best.
+Feel free to choose one that fits you the best, or use any other e2e testing framework.
 
 ## Setup
 
-Install dependencies:
+Install dependencies for Rspec or Cucumber if you choose to use one of them:
 ```
 gem bundler install
 ```
