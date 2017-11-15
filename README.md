@@ -7,6 +7,8 @@ Your task is to write tests where you enroll in a course and complete it.
 We've setup Rspec and Cucumber in this repo.
 Feel free to choose one that fits you the best, or use any other e2e testing framework.
 
+Upon completion please push your tests to this repo!
+
 ## Setup
 
 Install dependencies for Rspec or Cucumber if you choose to use one of them:
