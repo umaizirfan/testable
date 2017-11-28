@@ -1,6 +1,9 @@
 # Takehome for QA engineer position.
 
+
 ## Task
+
+*Fork this repository!* 
 
 We created a test school with a course that contains 4 lecture.
 Your task is to write tests where you enroll in a course and complete it.
